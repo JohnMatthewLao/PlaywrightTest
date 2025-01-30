@@ -1,0 +1,30 @@
+[
+    {
+        "applicationType": "Mobile Application",
+        "title": "Push notification system",
+        "invalidTitle": "App icon design",
+        "column":"To Do",
+        "tags1": "Feature",
+        "tags2": "None",
+        "invalidTag":"Design"
+    },
+    {
+        "applicationType": "Mobile Application",
+        "title": "Offline mode",
+        "invalidTitle": "API integration",
+        "column":"In Progress",
+        "tags1": "Feature", 
+        "tags2": "High Priority",
+        "invalidTag":"Design"
+    },
+    {
+        "applicationType": "Mobile Application",
+        "title": "App icon design",
+        "invalidTitle": "Offline mode",
+        "column":"Done",
+        "tags1": "Design",
+        "tags2": "None",
+        "invalidTag":"Feature"
+    }
+
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "applicationType": "Web Application",
+        "title": "Implement user authentication",
+        "invalidTitle": "API integration",
+        "column":"To Do",
+        "tags": ["Feature","High Priority"],
+        "invalidTag":"Bug"
+    },
+    {
+        "applicationType": "Web Application",
+        "title": "Fix navigation bug",
+        "invalidTitle": "API integration",
+        "column":"To Do",
+        "tags": ["Bug"],
+        "invalidTag":"Feature"
+    },
+    {
+        "applicationType": "Web Application",
+        "title": "Design system updates",
+        "invalidTitle": "Implement user authentication",
+        "column":"In Progress",
+        "tags": ["Design"],
+        "invalidTag":"Bug"
+    }
+
+
+]
